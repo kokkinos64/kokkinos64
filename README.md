@@ -39,10 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kokkinos64/kokkinos64/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/kokkinos64/count.svg?"  />
 </div>
